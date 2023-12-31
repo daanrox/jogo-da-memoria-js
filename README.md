@@ -6,7 +6,7 @@ O "Jogo da Memória com Emojis" é uma versão interativa e divertida do clássi
 ![Jogo da Memória](front_example.jpg)
 
 ### Deploy
-Aplicação em produção []()
+Aplicação em produção [https://daanrox.github.io/jogo-da-memoria-js/](https://daanrox.github.io/jogo-da-memoria-js/)
 
 ## Tecnologias Utilizadas
 
